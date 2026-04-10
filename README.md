@@ -64,4 +64,3 @@ Sathyabama Institute of Science and Technology, Chennai
 📧 punithsaipalakurthi@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/punith-sai-p) | [Portfolio](https://yourportfolio.com)
 
-*This project was developed as part of a construction industry data analysis portfolio, demonstrating secondary research, structured data compilation, and industry intelligence reporting skills.*
